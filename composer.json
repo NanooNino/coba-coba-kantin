@@ -1,6 +1,0 @@
-{
-    "require": {
-        "phpoffice/phpspreadsheet": "^4.3",
-        "dompdf/dompdf": "^3.1"
-    }
-}
